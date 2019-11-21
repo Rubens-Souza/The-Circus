@@ -98,3 +98,7 @@ img{
   justify-content: space-between;
   width: 100%;
 }
+.escolhida{
+  border: 5px solid green;
+  border-radius: 50%;
+}
